@@ -1,5 +1,5 @@
 DSA-Assignments
-## 📌 Overview
+## Overview
 
 This repository contains Data Structures and Algorithms (DSA) programs implemented in C++ and Java.  
 It covers fundamental concepts like sorting, linked lists, trees, and graphs, along with traversal algorithms such as BFS and DFS.
