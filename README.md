@@ -1,7 +1,8 @@
-DSA-Assignments
+# DSA-Assignments
+
 ## Overview
 
-This repository contains Data Structures and Algorithms (DSA) programs implemented in C++ and Java.  
+This repository contains Data Structures and Algorithms (DSA) programs implemented in C++ and Java.
 It covers fundamental concepts like sorting, linked lists, trees, and graphs, along with traversal algorithms such as BFS and DFS.
 
 ## Introduction
@@ -11,13 +12,15 @@ This repository reflects my learning journey in DSA through practical implementa
 The repository is divided into two parts:
 
 * DS1 (C++): Covers fundamental data structures and basic algorithms
-* DS2 (Java): Covers advanced data structures and object-oriented implementations
+* DS2 (Java): Covers advanced data structures and object oriented implementations
 
 ## Folder Structure
 
+```text
 DSA-Assignments
 ├── DS1-CPP
 ├── DS2-Java
+```
 
 ## Topics Covered
 
@@ -37,18 +40,20 @@ DSA-Assignments
 * AVL Trees
 * Heap and Heap Sort
 * Added Graph ADT implementation (BFS & DFS)
+* Prim’s Algorithm for Minimum Spanning Tree (MST)
+* Dijkstra’s Algorithm for Shortest Path
 
 ## Features
 
 * Clean and simple implementations
-* Beginner-friendly logic
+* Beginner friendly logic
 * Organized folder structure
 * Covers both theory-based and practical problems
 
 ## Future Improvements
 
 * Adding more DS2 programs
-* Implementing advanced algorithms
+* Implementing advanced graph algorithms
 * Improving code optimization
 
 ## Contributing
