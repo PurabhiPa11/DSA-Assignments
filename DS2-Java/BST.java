@@ -17,7 +17,7 @@ Node newNode = new Node(data);
 // If tree is empty, new node becomes root
 if (root == null) {
 root = newNode;
-return;
+return; 
 }
 
 Node current = root, parent = null;  // Start traversal from root
