@@ -33,7 +33,7 @@ DSA-Assignments
 * Polynomial Operations
 * Sparse Matrix Operations
 
-### DS2 (Java) *(In Progress)*
+### DS2 (Java) 
 
 * Binary Trees
 * Binary Search Trees (BST)
@@ -52,9 +52,6 @@ DSA-Assignments
 * Covers both theory-based and practical problems
 
 ## Future Improvements
-
-* Adding more DS2 programs
-* Implementing advanced graph algorithms
 * Improving code optimization
 
 ## Contributing
